@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suraj..
-- 👀 I’m interested in AWS Cloud & WEB Dev,Node,React
-- 🌱 I’m currently learning AWS,Node & React
+- 👀 AWS Cloud & WEB Dev,Node,React
+- 🌱 I’m currently learning AWS, DevOps, Node & React
                         ....⚡.... 
 # 🚀 AWS Cloud DevOps Mega Project 🛠️ | Full-Stack Deployment with React + Node.js + MySQL + Networking 🌐
 
